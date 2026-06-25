@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>PTM VNPT Dashboard</title>
+  <link rel="stylesheet" href="site.css">
+  <script src="site.js" defer></script>
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">VNPT</div>
+    <div>
+      <h1>Dashboard PTM VNPT khu vực</h1>
+      <p>Doanh thu bán hàng PTM, B2 và B3 so với kế hoạch TCT/tỉnh</p>
+    </div>
+  </header>
+
+  <main class="shell">
+    <section class="filters">
+      <label>
+        Kỳ phân tích
+        <select id="periodSelect">
+          <option value="T6_2026">Tháng 6/2026</option>
+          <option value="LK_1_6">Lũy kế 1-6/2026</option>
+        </select>
+      </label>
+      <label>
+        Đơn vị
+        <select id="unitSelect">
+          <option value="__ALL__">Tất cả VNPT</option>
+        </select>
+      </label>
+    </section>
+
+    <section class="kpi-grid" id="kpiGrid"></section>
+
+    <section class="panel">
+      <div class="panel-head">
+        <div>
+          <span class="kicker">Xu hướng</span>
+          <h2>Doanh thu PTM: thực hiện vs kế hoạch</h2>
+        </div>
+      </div>
+      <div id="trendChart" class="line-chart"></div>
+    </section>
+
+    <section class="grid-2">
+      <article class="panel">
+        <div class="panel-head">
+          <div>
+            <span class="kicker">Xếp hạng</span>
+            <h2>Doanh thu theo đơn vị</h2>
+          </div>
+        </div>
+        <div id="revenueRank" class="bar-chart"></div>
+      </article>
+
+      <article class="panel">
+        <div class="panel-head">
+          <div>
+            <span class="kicker">Tiến độ</span>
+            <h2>% B2 theo đơn vị</h2>
+          </div>
+        </div>
+        <div id="b2Rank" class="bar-chart"></div>
+      </article>
+    </section>
+
+    <section class="panel">
+      <div class="panel-head">
+        <div>
+          <span class="kicker">Chi tiết</span>
+          <h2>Bảng điều hành đơn vị</h2>
+        </div>
+      </div>
+      <div class="table-wrap">
+        <table id="detailTable"></table>
+      </div>
+    </section>
+  </main>
+</body>
+</html>

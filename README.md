@@ -52,6 +52,27 @@ Kết quả sẽ được ghi vào `superset_ptm_project/data/`.
 
 Nếu dùng database riêng, có thể nạp CSV vào database rồi chạy thêm SQL trong `sql/superset_views.sql` để tạo view.
 
+## GitHub Pages
+
+Trang dashboard tĩnh nằm ở root project:
+
+- `index.html`
+- `site.css`
+- `site.js`
+- `data/*.csv`
+
+Khi project được push lên repository user site `quangthaingo/quangthaingo.github.io`, GitHub Pages sẽ phục vụ trang tại:
+
+```text
+https://quangthaingo.github.io/
+```
+
+Nếu cần xem local trước khi push:
+
+```powershell
+& 'C:\Users\thain\.cache\codex-runtimes\codex-primary-runtime\dependencies\node\bin\node.exe' 'C:\Users\thain\Documents\Codex\Dashboard\superset_ptm_project\scripts\serve-static.mjs'
+```
+
 ## Dashboard đề xuất
 
 - Tổng quan doanh thu PTM theo tháng.

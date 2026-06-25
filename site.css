@@ -1,0 +1,237 @@
+:root {
+  --bg: #f4f8fb;
+  --panel: #ffffff;
+  --ink: #0f2437;
+  --muted: #5a6c7d;
+  --line: #d7e2ea;
+  --blue: #075eaa;
+  --cyan: #00a0d2;
+  --green: #008b61;
+  --amber: #d98500;
+  --red: #c73e36;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: "Segoe UI", Arial, sans-serif;
+  background: var(--bg);
+  color: var(--ink);
+}
+
+.topbar {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 18px 28px;
+  color: #fff;
+  background: linear-gradient(90deg, #075eaa, #008fd0);
+}
+
+.brand {
+  width: 68px;
+  height: 42px;
+  display: grid;
+  place-items: center;
+  border: 2px solid rgba(255,255,255,.75);
+  border-radius: 8px;
+  font-weight: 900;
+}
+
+h1, h2, p { margin: 0; }
+h1 { font-size: 22px; line-height: 1.2; }
+.topbar p { margin-top: 4px; color: #dff2ff; font-size: 13px; }
+
+.shell {
+  max-width: 1480px;
+  margin: 0 auto;
+  padding: 22px 24px 36px;
+}
+
+.filters {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(220px, 1fr));
+  gap: 14px;
+  padding: 14px;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+}
+
+label {
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 700;
+}
+
+select {
+  display: block;
+  width: 100%;
+  height: 38px;
+  margin-top: 6px;
+  border: 1px solid #b7cad8;
+  border-radius: 6px;
+  padding: 0 10px;
+  background: #fff;
+  color: var(--ink);
+  font-size: 14px;
+}
+
+.kpi-grid {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 14px;
+  margin: 16px 0;
+}
+
+.kpi-card, .panel {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  box-shadow: 0 8px 20px rgba(7, 94, 170, .06);
+}
+
+.kpi-card {
+  padding: 14px;
+  border-top: 4px solid var(--blue);
+}
+
+.kpi-title {
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.kpi-value {
+  margin-top: 10px;
+  font-size: 26px;
+  font-weight: 850;
+  font-variant-numeric: tabular-nums;
+}
+
+.kpi-sub {
+  margin-top: 8px;
+  color: var(--muted);
+  font-size: 12px;
+  line-height: 1.45;
+}
+
+.good { color: var(--green); }
+.warn { color: var(--amber); }
+.bad { color: var(--red); }
+
+.panel {
+  padding: 16px;
+  margin-top: 16px;
+}
+
+.panel-head {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  margin-bottom: 14px;
+}
+
+.kicker {
+  display: block;
+  margin-bottom: 4px;
+  color: var(--blue);
+  font-size: 12px;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+h2 { font-size: 18px; }
+
+.grid-2 {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
+}
+
+.bar-row {
+  display: grid;
+  grid-template-columns: 82px 1fr 88px;
+  align-items: center;
+  gap: 10px;
+  min-height: 30px;
+  font-size: 13px;
+}
+
+.bar-track {
+  height: 16px;
+  background: #e7eef5;
+  border-radius: 999px;
+  overflow: hidden;
+}
+
+.bar-fill {
+  height: 100%;
+  min-width: 2px;
+  background: linear-gradient(90deg, var(--blue), var(--cyan));
+}
+
+.bar-value {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+  color: var(--muted);
+}
+
+.line-chart svg {
+  width: 100%;
+  min-height: 320px;
+  display: block;
+}
+
+.legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 10px;
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.legend i {
+  display: inline-block;
+  width: 12px;
+  height: 3px;
+  margin-right: 6px;
+  vertical-align: middle;
+}
+
+.table-wrap { overflow-x: auto; }
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+}
+
+th, td {
+  padding: 9px 10px;
+  border-bottom: 1px solid var(--line);
+  text-align: right;
+  white-space: nowrap;
+}
+
+th:first-child, td:first-child { text-align: left; }
+th {
+  background: #e8f3fb;
+  color: #12304a;
+  font-weight: 850;
+}
+
+@media (max-width: 1100px) {
+  .kpi-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .grid-2 { grid-template-columns: 1fr; }
+}
+
+@media (max-width: 680px) {
+  .topbar { align-items: flex-start; padding: 16px; }
+  .brand { width: 56px; }
+  .shell { padding: 16px; }
+  .filters, .kpi-grid { grid-template-columns: 1fr; }
+}
