@@ -1,0 +1,21 @@
+services:
+  superset:
+    image: apache/superset:latest
+    container_name: ptm-superset
+    ports:
+      - "8088:8088"
+    environment:
+      SUPERSET_SECRET_KEY: "ptm-local-dev-secret-change-me"
+    volumes:
+      - ./data:/app/ptm_data
+      - superset_home:/app/superset_home
+    command: >
+      /bin/sh -c "
+      superset db upgrade &&
+      superset fab create-admin --username admin --firstname PTM --lastname Admin --email admin@example.com --password admin || true &&
+      superset init &&
+      superset run -h 0.0.0.0 -p 8088
+      "
+
+volumes:
+  superset_home:

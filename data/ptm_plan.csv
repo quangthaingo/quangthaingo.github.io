@@ -1,0 +1,217 @@
+unit,code,kpi,target_type,month,plan_value
+VNPT BLU,B1,Doanh thu bán hàng PTM - Mục TCT,KH TCT - Doanh thu,202601,542
+VNPT BLU,B1,Doanh thu bán hàng PTM - Mục TCT,KH TCT - Doanh thu,202602,542.1
+VNPT BLU,B1,Doanh thu bán hàng PTM - Mục TCT,KH TCT - Doanh thu,202603,722.7
+VNPT BLU,B1,Doanh thu bán hàng PTM - Mục TCT,KH TCT - Doanh thu,202604,650.5
+VNPT BLU,B1,Doanh thu bán hàng PTM - Mục TCT,KH TCT - Doanh thu,202605,686.6
+VNPT BLU,B1,Doanh thu bán hàng PTM - Mục TCT,KH TCT - Doanh thu,202606,686.5
+VNPT BLU,B1,Doanh thu bán hàng PTM - Mục tiêu tỉnh,KH tỉnh - Doanh thu,202601,396.2
+VNPT BLU,B1,Doanh thu bán hàng PTM - Mục tiêu tỉnh,KH tỉnh - Doanh thu,202602,354.1
+VNPT BLU,B1,Doanh thu bán hàng PTM - Mục tiêu tỉnh,KH tỉnh - Doanh thu,202603,396.2
+VNPT BLU,B1,Doanh thu bán hàng PTM - Mục tiêu tỉnh,KH tỉnh - Doanh thu,202604,420.8
+VNPT BLU,B1,Doanh thu bán hàng PTM - Mục tiêu tỉnh,KH tỉnh - Doanh thu,202605,420.8
+VNPT BLU,B1,Doanh thu bán hàng PTM - Mục tiêu tỉnh,KH tỉnh - Doanh thu,202606,420.8
+VNPT BLU,B2,Thuê bao di động PTM - Mục tiêu tỉnh,KH tỉnh - TB PTM,202601,2006
+VNPT BLU,B2,Thuê bao di động PTM - Mục tiêu tỉnh,KH tỉnh - TB PTM,202602,1806
+VNPT BLU,B2,Thuê bao di động PTM - Mục tiêu tỉnh,KH tỉnh - TB PTM,202603,2006
+VNPT BLU,B2,Thuê bao di động PTM - Mục tiêu tỉnh,KH tỉnh - TB PTM,202604,2012
+VNPT BLU,B2,Thuê bao di động PTM - Mục tiêu tỉnh,KH tỉnh - TB PTM,202605,2012
+VNPT BLU,B2,Thuê bao di động PTM - Mục tiêu tỉnh,KH tỉnh - TB PTM,202606,2012
+VNPT BLU,B3,Tỷ lệ thuê bao mua gói trong tháng PTM,KH tỉnh - Tỷ lệ mua gói,202601,80
+VNPT BLU,B3,Tỷ lệ thuê bao mua gói trong tháng PTM,KH tỉnh - Tỷ lệ mua gói,202602,80
+VNPT BLU,B3,Tỷ lệ thuê bao mua gói trong tháng PTM,KH tỉnh - Tỷ lệ mua gói,202603,80
+VNPT BLU,B3,Tỷ lệ thuê bao mua gói trong tháng PTM,KH tỉnh - Tỷ lệ mua gói,202604,80
+VNPT BLU,B3,Tỷ lệ thuê bao mua gói trong tháng PTM,KH tỉnh - Tỷ lệ mua gói,202605,80
+VNPT BLU,B3,Tỷ lệ thuê bao mua gói trong tháng PTM,KH tỉnh - Tỷ lệ mua gói,202606,80
+VNPT CNC,B1,Doanh thu bán hàng PTM,KH TCT - Doanh thu,202601,610.7
+VNPT CNC,B1,Doanh thu bán hàng PTM,KH TCT - Doanh thu,202602,610.8
+VNPT CNC,B1,Doanh thu bán hàng PTM,KH TCT - Doanh thu,202603,814.3
+VNPT CNC,B1,Doanh thu bán hàng PTM,KH TCT - Doanh thu,202604,732.9
+VNPT CNC,B1,Doanh thu bán hàng PTM,KH TCT - Doanh thu,202605,773.6
+VNPT CNC,B1,Doanh thu bán hàng PTM,KH TCT - Doanh thu,202606,773.5
+VNPT CNC,B1,Doanh thu bán hàng PTM - Mục tiêu tỉnh,KH tỉnh - Doanh thu,202601,446.5
+VNPT CNC,B1,Doanh thu bán hàng PTM - Mục tiêu tỉnh,KH tỉnh - Doanh thu,202602,399.1
+VNPT CNC,B1,Doanh thu bán hàng PTM - Mục tiêu tỉnh,KH tỉnh - Doanh thu,202603,446.5
+VNPT CNC,B1,Doanh thu bán hàng PTM - Mục tiêu tỉnh,KH tỉnh - Doanh thu,202604,474.1
+VNPT CNC,B1,Doanh thu bán hàng PTM - Mục tiêu tỉnh,KH tỉnh - Doanh thu,202605,474.1
+VNPT CNC,B1,Doanh thu bán hàng PTM - Mục tiêu tỉnh,KH tỉnh - Doanh thu,202606,474.1
+VNPT CNC,B2,Thuê bao di động PTM - Mục tiêu tỉnh,KH tỉnh - TB PTM,202601,2261
+VNPT CNC,B2,Thuê bao di động PTM - Mục tiêu tỉnh,KH tỉnh - TB PTM,202602,2035
+VNPT CNC,B2,Thuê bao di động PTM - Mục tiêu tỉnh,KH tỉnh - TB PTM,202603,2261
+VNPT CNC,B2,Thuê bao di động PTM - Mục tiêu tỉnh,KH tỉnh - TB PTM,202604,2267
+VNPT CNC,B2,Thuê bao di động PTM - Mục tiêu tỉnh,KH tỉnh - TB PTM,202605,2267
+VNPT CNC,B2,Thuê bao di động PTM - Mục tiêu tỉnh,KH tỉnh - TB PTM,202606,2267
+VNPT CNC,B3,Tỷ lệ thuê bao mua gói trong tháng PTM,KH tỉnh - Tỷ lệ mua gói,202601,80
+VNPT CNC,B3,Tỷ lệ thuê bao mua gói trong tháng PTM,KH tỉnh - Tỷ lệ mua gói,202602,80
+VNPT CNC,B3,Tỷ lệ thuê bao mua gói trong tháng PTM,KH tỉnh - Tỷ lệ mua gói,202603,80
+VNPT CNC,B3,Tỷ lệ thuê bao mua gói trong tháng PTM,KH tỉnh - Tỷ lệ mua gói,202604,80
+VNPT CNC,B3,Tỷ lệ thuê bao mua gói trong tháng PTM,KH tỉnh - Tỷ lệ mua gói,202605,80
+VNPT CNC,B3,Tỷ lệ thuê bao mua gói trong tháng PTM,KH tỉnh - Tỷ lệ mua gói,202606,80
+VNPT GRI,B1,Doanh thu bán hàng PTM,KH TCT - Doanh thu,202601,506.1
+VNPT GRI,B1,Doanh thu bán hàng PTM,KH TCT - Doanh thu,202602,506.2
+VNPT GRI,B1,Doanh thu bán hàng PTM,KH TCT - Doanh thu,202603,674.9
+VNPT GRI,B1,Doanh thu bán hàng PTM,KH TCT - Doanh thu,202604,607.5
+VNPT GRI,B1,Doanh thu bán hàng PTM,KH TCT - Doanh thu,202605,641
+VNPT GRI,B1,Doanh thu bán hàng PTM,KH TCT - Doanh thu,202606,641.1
+VNPT GRI,B1,Doanh thu bán hàng PTM - Mục tiêu tỉnh,KH tỉnh - Doanh thu,202601,298.5
+VNPT GRI,B1,Doanh thu bán hàng PTM - Mục tiêu tỉnh,KH tỉnh - Doanh thu,202602,266.9
+VNPT GRI,B1,Doanh thu bán hàng PTM - Mục tiêu tỉnh,KH tỉnh - Doanh thu,202603,298.5
+VNPT GRI,B1,Doanh thu bán hàng PTM - Mục tiêu tỉnh,KH tỉnh - Doanh thu,202604,360.5
+VNPT GRI,B1,Doanh thu bán hàng PTM - Mục tiêu tỉnh,KH tỉnh - Doanh thu,202605,360.5
+VNPT GRI,B1,Doanh thu bán hàng PTM - Mục tiêu tỉnh,KH tỉnh - Doanh thu,202606,360.5
+VNPT GRI,B2,Thuê bao di động PTM - Mục tiêu tỉnh,KH tỉnh - TB PTM,202601,1874
+VNPT GRI,B2,Thuê bao di động PTM - Mục tiêu tỉnh,KH tỉnh - TB PTM,202602,1686
+VNPT GRI,B2,Thuê bao di động PTM - Mục tiêu tỉnh,KH tỉnh - TB PTM,202603,1874
+VNPT GRI,B2,Thuê bao di động PTM - Mục tiêu tỉnh,KH tỉnh - TB PTM,202604,1879
+VNPT GRI,B2,Thuê bao di động PTM - Mục tiêu tỉnh,KH tỉnh - TB PTM,202605,1879
+VNPT GRI,B2,Thuê bao di động PTM - Mục tiêu tỉnh,KH tỉnh - TB PTM,202606,1879
+VNPT GRI,B3,Tỷ lệ thuê bao mua gói trong tháng PTM,KH tỉnh - Tỷ lệ mua gói,202601,80
+VNPT GRI,B3,Tỷ lệ thuê bao mua gói trong tháng PTM,KH tỉnh - Tỷ lệ mua gói,202602,80
+VNPT GRI,B3,Tỷ lệ thuê bao mua gói trong tháng PTM,KH tỉnh - Tỷ lệ mua gói,202603,80
+VNPT GRI,B3,Tỷ lệ thuê bao mua gói trong tháng PTM,KH tỉnh - Tỷ lệ mua gói,202604,80
+VNPT GRI,B3,Tỷ lệ thuê bao mua gói trong tháng PTM,KH tỉnh - Tỷ lệ mua gói,202605,80
+VNPT GRI,B3,Tỷ lệ thuê bao mua gói trong tháng PTM,KH tỉnh - Tỷ lệ mua gói,202606,80
+VNPT HBH,B1,Doanh thu bán hàng PTM,KH TCT - Doanh thu,202601,359.3
+VNPT HBH,B1,Doanh thu bán hàng PTM,KH TCT - Doanh thu,202602,359.4
+VNPT HBH,B1,Doanh thu bán hàng PTM,KH TCT - Doanh thu,202603,479.2
+VNPT HBH,B1,Doanh thu bán hàng PTM,KH TCT - Doanh thu,202604,431.2
+VNPT HBH,B1,Doanh thu bán hàng PTM,KH TCT - Doanh thu,202605,455.2
+VNPT HBH,B1,Doanh thu bán hàng PTM,KH TCT - Doanh thu,202606,455.1
+VNPT HBH,B1,Doanh thu bán hàng PTM - Mục tiêu tỉnh,KH tỉnh - Doanh thu,202601,171.2
+VNPT HBH,B1,Doanh thu bán hàng PTM - Mục tiêu tỉnh,KH tỉnh - Doanh thu,202602,153.1
+VNPT HBH,B1,Doanh thu bán hàng PTM - Mục tiêu tỉnh,KH tỉnh - Doanh thu,202603,171.2
+VNPT HBH,B1,Doanh thu bán hàng PTM - Mục tiêu tỉnh,KH tỉnh - Doanh thu,202604,186.5
+VNPT HBH,B1,Doanh thu bán hàng PTM - Mục tiêu tỉnh,KH tỉnh - Doanh thu,202605,186.5
+VNPT HBH,B1,Doanh thu bán hàng PTM - Mục tiêu tỉnh,KH tỉnh - Doanh thu,202606,186.5
+VNPT HBH,B2,Thuê bao di động PTM - Mục tiêu tỉnh,KH tỉnh - TB PTM,202601,1330
+VNPT HBH,B2,Thuê bao di động PTM - Mục tiêu tỉnh,KH tỉnh - TB PTM,202602,1197
+VNPT HBH,B2,Thuê bao di động PTM - Mục tiêu tỉnh,KH tỉnh - TB PTM,202603,1330
+VNPT HBH,B2,Thuê bao di động PTM - Mục tiêu tỉnh,KH tỉnh - TB PTM,202604,1334
+VNPT HBH,B2,Thuê bao di động PTM - Mục tiêu tỉnh,KH tỉnh - TB PTM,202605,1334
+VNPT HBH,B2,Thuê bao di động PTM - Mục tiêu tỉnh,KH tỉnh - TB PTM,202606,1334
+VNPT HBH,B3,Tỷ lệ thuê bao mua gói trong tháng PTM,KH tỉnh - Tỷ lệ mua gói,202601,80
+VNPT HBH,B3,Tỷ lệ thuê bao mua gói trong tháng PTM,KH tỉnh - Tỷ lệ mua gói,202602,80
+VNPT HBH,B3,Tỷ lệ thuê bao mua gói trong tháng PTM,KH tỉnh - Tỷ lệ mua gói,202603,80
+VNPT HBH,B3,Tỷ lệ thuê bao mua gói trong tháng PTM,KH tỉnh - Tỷ lệ mua gói,202604,80
+VNPT HBH,B3,Tỷ lệ thuê bao mua gói trong tháng PTM,KH tỉnh - Tỷ lệ mua gói,202605,80
+VNPT HBH,B3,Tỷ lệ thuê bao mua gói trong tháng PTM,KH tỉnh - Tỷ lệ mua gói,202606,80
+VNPT NCN,B1,Doanh thu bán hàng PTM,KH TCT - Doanh thu,202601,278.7
+VNPT NCN,B1,Doanh thu bán hàng PTM,KH TCT - Doanh thu,202602,278.7
+VNPT NCN,B1,Doanh thu bán hàng PTM,KH TCT - Doanh thu,202603,371.5
+VNPT NCN,B1,Doanh thu bán hàng PTM,KH TCT - Doanh thu,202604,334.5
+VNPT NCN,B1,Doanh thu bán hàng PTM,KH TCT - Doanh thu,202605,353
+VNPT NCN,B1,Doanh thu bán hàng PTM,KH TCT - Doanh thu,202606,353
+VNPT NCN,B1,Doanh thu bán hàng PTM - Mục tiêu tỉnh,KH tỉnh - Doanh thu,202601,203.7
+VNPT NCN,B1,Doanh thu bán hàng PTM - Mục tiêu tỉnh,KH tỉnh - Doanh thu,202602,182.1
+VNPT NCN,B1,Doanh thu bán hàng PTM - Mục tiêu tỉnh,KH tỉnh - Doanh thu,202603,203.7
+VNPT NCN,B1,Doanh thu bán hàng PTM - Mục tiêu tỉnh,KH tỉnh - Doanh thu,202604,216.3
+VNPT NCN,B1,Doanh thu bán hàng PTM - Mục tiêu tỉnh,KH tỉnh - Doanh thu,202605,216.3
+VNPT NCN,B1,Doanh thu bán hàng PTM - Mục tiêu tỉnh,KH tỉnh - Doanh thu,202606,216.3
+VNPT NCN,B2,Thuê bao di động PTM - Mục tiêu tỉnh,KH tỉnh - TB PTM,202601,1032
+VNPT NCN,B2,Thuê bao di động PTM - Mục tiêu tỉnh,KH tỉnh - TB PTM,202602,928
+VNPT NCN,B2,Thuê bao di động PTM - Mục tiêu tỉnh,KH tỉnh - TB PTM,202603,1032
+VNPT NCN,B2,Thuê bao di động PTM - Mục tiêu tỉnh,KH tỉnh - TB PTM,202604,1035
+VNPT NCN,B2,Thuê bao di động PTM - Mục tiêu tỉnh,KH tỉnh - TB PTM,202605,1035
+VNPT NCN,B2,Thuê bao di động PTM - Mục tiêu tỉnh,KH tỉnh - TB PTM,202606,1035
+VNPT NCN,B3,Tỷ lệ thuê bao mua gói trong tháng PTM,KH tỉnh - Tỷ lệ mua gói,202601,80
+VNPT NCN,B3,Tỷ lệ thuê bao mua gói trong tháng PTM,KH tỉnh - Tỷ lệ mua gói,202602,80
+VNPT NCN,B3,Tỷ lệ thuê bao mua gói trong tháng PTM,KH tỉnh - Tỷ lệ mua gói,202603,80
+VNPT NCN,B3,Tỷ lệ thuê bao mua gói trong tháng PTM,KH tỉnh - Tỷ lệ mua gói,202604,80
+VNPT NCN,B3,Tỷ lệ thuê bao mua gói trong tháng PTM,KH tỉnh - Tỷ lệ mua gói,202605,80
+VNPT NCN,B3,Tỷ lệ thuê bao mua gói trong tháng PTM,KH tỉnh - Tỷ lệ mua gói,202606,80
+VNPT PLG,B1,Doanh thu bán hàng PTM,KH TCT - Doanh thu,202601,428
+VNPT PLG,B1,Doanh thu bán hàng PTM,KH TCT - Doanh thu,202602,428
+VNPT PLG,B1,Doanh thu bán hàng PTM,KH TCT - Doanh thu,202603,570.7
+VNPT PLG,B1,Doanh thu bán hàng PTM,KH TCT - Doanh thu,202604,513.6
+VNPT PLG,B1,Doanh thu bán hàng PTM,KH TCT - Doanh thu,202605,542.1
+VNPT PLG,B1,Doanh thu bán hàng PTM,KH TCT - Doanh thu,202606,542
+VNPT PLG,B1,Doanh thu bán hàng PTM - Mục tiêu tỉnh,KH tỉnh - Doanh thu,202601,312.9
+VNPT PLG,B1,Doanh thu bán hàng PTM - Mục tiêu tỉnh,KH tỉnh - Doanh thu,202602,279.7
+VNPT PLG,B1,Doanh thu bán hàng PTM - Mục tiêu tỉnh,KH tỉnh - Doanh thu,202603,312.9
+VNPT PLG,B1,Doanh thu bán hàng PTM - Mục tiêu tỉnh,KH tỉnh - Doanh thu,202604,304.8
+VNPT PLG,B1,Doanh thu bán hàng PTM - Mục tiêu tỉnh,KH tỉnh - Doanh thu,202605,304.8
+VNPT PLG,B1,Doanh thu bán hàng PTM - Mục tiêu tỉnh,KH tỉnh - Doanh thu,202606,304.8
+VNPT PLG,B2,Thuê bao di động PTM - Mục tiêu tỉnh,KH tỉnh - TB PTM,202601,1584
+VNPT PLG,B2,Thuê bao di động PTM - Mục tiêu tỉnh,KH tỉnh - TB PTM,202602,1426
+VNPT PLG,B2,Thuê bao di động PTM - Mục tiêu tỉnh,KH tỉnh - TB PTM,202603,1584
+VNPT PLG,B2,Thuê bao di động PTM - Mục tiêu tỉnh,KH tỉnh - TB PTM,202604,1589
+VNPT PLG,B2,Thuê bao di động PTM - Mục tiêu tỉnh,KH tỉnh - TB PTM,202605,1589
+VNPT PLG,B2,Thuê bao di động PTM - Mục tiêu tỉnh,KH tỉnh - TB PTM,202606,1589
+VNPT PLG,B3,Tỷ lệ thuê bao mua gói trong tháng PTM,KH tỉnh - Tỷ lệ mua gói,202601,80
+VNPT PLG,B3,Tỷ lệ thuê bao mua gói trong tháng PTM,KH tỉnh - Tỷ lệ mua gói,202602,80
+VNPT PLG,B3,Tỷ lệ thuê bao mua gói trong tháng PTM,KH tỉnh - Tỷ lệ mua gói,202603,80
+VNPT PLG,B3,Tỷ lệ thuê bao mua gói trong tháng PTM,KH tỉnh - Tỷ lệ mua gói,202604,80
+VNPT PLG,B3,Tỷ lệ thuê bao mua gói trong tháng PTM,KH tỉnh - Tỷ lệ mua gói,202605,80
+VNPT PLG,B3,Tỷ lệ thuê bao mua gói trong tháng PTM,KH tỉnh - Tỷ lệ mua gói,202606,80
+VNPT TTH,B1,Doanh thu bán hàng PTM,KH TCT - Doanh thu,202601,741.5
+VNPT TTH,B1,Doanh thu bán hàng PTM,KH TCT - Doanh thu,202602,741.8
+VNPT TTH,B1,Doanh thu bán hàng PTM,KH TCT - Doanh thu,202603,988.8
+VNPT TTH,B1,Doanh thu bán hàng PTM,KH TCT - Doanh thu,202604,890
+VNPT TTH,B1,Doanh thu bán hàng PTM,KH TCT - Doanh thu,202605,939.5
+VNPT TTH,B1,Doanh thu bán hàng PTM,KH TCT - Doanh thu,202606,939.3
+VNPT TTH,B1,Doanh thu bán hàng PTM - Mục tiêu tỉnh,KH tỉnh - Doanh thu,202601,542.3
+VNPT TTH,B1,Doanh thu bán hàng PTM - Mục tiêu tỉnh,KH tỉnh - Doanh thu,202602,484.6
+VNPT TTH,B1,Doanh thu bán hàng PTM - Mục tiêu tỉnh,KH tỉnh - Doanh thu,202603,542.3
+VNPT TTH,B1,Doanh thu bán hàng PTM - Mục tiêu tỉnh,KH tỉnh - Doanh thu,202604,575.9
+VNPT TTH,B1,Doanh thu bán hàng PTM - Mục tiêu tỉnh,KH tỉnh - Doanh thu,202605,575.9
+VNPT TTH,B1,Doanh thu bán hàng PTM - Mục tiêu tỉnh,KH tỉnh - Doanh thu,202606,575.9
+VNPT TTH,B2,Thuê bao di động PTM - Mục tiêu tỉnh,KH tỉnh - TB PTM,202601,2745
+VNPT TTH,B2,Thuê bao di động PTM - Mục tiêu tỉnh,KH tỉnh - TB PTM,202602,2471
+VNPT TTH,B2,Thuê bao di động PTM - Mục tiêu tỉnh,KH tỉnh - TB PTM,202603,2745
+VNPT TTH,B2,Thuê bao di động PTM - Mục tiêu tỉnh,KH tỉnh - TB PTM,202604,2754
+VNPT TTH,B2,Thuê bao di động PTM - Mục tiêu tỉnh,KH tỉnh - TB PTM,202605,2754
+VNPT TTH,B2,Thuê bao di động PTM - Mục tiêu tỉnh,KH tỉnh - TB PTM,202606,2754
+VNPT TTH,B3,Tỷ lệ thuê bao mua gói trong tháng PTM,KH tỉnh - Tỷ lệ mua gói,202601,80
+VNPT TTH,B3,Tỷ lệ thuê bao mua gói trong tháng PTM,KH tỉnh - Tỷ lệ mua gói,202602,80
+VNPT TTH,B3,Tỷ lệ thuê bao mua gói trong tháng PTM,KH tỉnh - Tỷ lệ mua gói,202603,80
+VNPT TTH,B3,Tỷ lệ thuê bao mua gói trong tháng PTM,KH tỉnh - Tỷ lệ mua gói,202604,80
+VNPT TTH,B3,Tỷ lệ thuê bao mua gói trong tháng PTM,KH tỉnh - Tỷ lệ mua gói,202605,80
+VNPT TTH,B3,Tỷ lệ thuê bao mua gói trong tháng PTM,KH tỉnh - Tỷ lệ mua gói,202606,80
+VNPT TVT,B1,Doanh thu bán hàng PTM,KH TCT - Doanh thu,202601,559.3
+VNPT TVT,B1,Doanh thu bán hàng PTM,KH TCT - Doanh thu,202602,559.4
+VNPT TVT,B1,Doanh thu bán hàng PTM,KH TCT - Doanh thu,202603,745.8
+VNPT TVT,B1,Doanh thu bán hàng PTM,KH TCT - Doanh thu,202604,671.2
+VNPT TVT,B1,Doanh thu bán hàng PTM,KH TCT - Doanh thu,202605,708.5
+VNPT TVT,B1,Doanh thu bán hàng PTM,KH TCT - Doanh thu,202606,708.3
+VNPT TVT,B1,Doanh thu bán hàng PTM - Mục tiêu tỉnh,KH tỉnh - Doanh thu,202601,408.9
+VNPT TVT,B1,Doanh thu bán hàng PTM - Mục tiêu tỉnh,KH tỉnh - Doanh thu,202602,365.4
+VNPT TVT,B1,Doanh thu bán hàng PTM - Mục tiêu tỉnh,KH tỉnh - Doanh thu,202603,408.9
+VNPT TVT,B1,Doanh thu bán hàng PTM - Mục tiêu tỉnh,KH tỉnh - Doanh thu,202604,434.2
+VNPT TVT,B1,Doanh thu bán hàng PTM - Mục tiêu tỉnh,KH tỉnh - Doanh thu,202605,434.2
+VNPT TVT,B1,Doanh thu bán hàng PTM - Mục tiêu tỉnh,KH tỉnh - Doanh thu,202606,434.2
+VNPT TVT,B2,Thuê bao di động PTM - Mục tiêu tỉnh,KH tỉnh - TB PTM,202601,2070
+VNPT TVT,B2,Thuê bao di động PTM - Mục tiêu tỉnh,KH tỉnh - TB PTM,202602,1863
+VNPT TVT,B2,Thuê bao di động PTM - Mục tiêu tỉnh,KH tỉnh - TB PTM,202603,2070
+VNPT TVT,B2,Thuê bao di động PTM - Mục tiêu tỉnh,KH tỉnh - TB PTM,202604,2076
+VNPT TVT,B2,Thuê bao di động PTM - Mục tiêu tỉnh,KH tỉnh - TB PTM,202605,2076
+VNPT TVT,B2,Thuê bao di động PTM - Mục tiêu tỉnh,KH tỉnh - TB PTM,202606,2076
+VNPT TVT,B3,Tỷ lệ thuê bao mua gói trong tháng PTM,KH tỉnh - Tỷ lệ mua gói,202601,80
+VNPT TVT,B3,Tỷ lệ thuê bao mua gói trong tháng PTM,KH tỉnh - Tỷ lệ mua gói,202602,80
+VNPT TVT,B3,Tỷ lệ thuê bao mua gói trong tháng PTM,KH tỉnh - Tỷ lệ mua gói,202603,80
+VNPT TVT,B3,Tỷ lệ thuê bao mua gói trong tháng PTM,KH tỉnh - Tỷ lệ mua gói,202604,80
+VNPT TVT,B3,Tỷ lệ thuê bao mua gói trong tháng PTM,KH tỉnh - Tỷ lệ mua gói,202605,80
+VNPT TVT,B3,Tỷ lệ thuê bao mua gói trong tháng PTM,KH tỉnh - Tỷ lệ mua gói,202606,80
+VNPT UMH,B1,Doanh thu bán hàng PTM,KH TCT - Doanh thu,202601,385.5
+VNPT UMH,B1,Doanh thu bán hàng PTM,KH TCT - Doanh thu,202602,385.6
+VNPT UMH,B1,Doanh thu bán hàng PTM,KH TCT - Doanh thu,202603,514.1
+VNPT UMH,B1,Doanh thu bán hàng PTM,KH TCT - Doanh thu,202604,462.7
+VNPT UMH,B1,Doanh thu bán hàng PTM,KH TCT - Doanh thu,202605,488.5
+VNPT UMH,B1,Doanh thu bán hàng PTM,KH TCT - Doanh thu,202606,488.3
+VNPT UMH,B1,Doanh thu bán hàng PTM - Mục tiêu tỉnh,KH tỉnh - Doanh thu,202601,281.9
+VNPT UMH,B1,Doanh thu bán hàng PTM - Mục tiêu tỉnh,KH tỉnh - Doanh thu,202602,252
+VNPT UMH,B1,Doanh thu bán hàng PTM - Mục tiêu tỉnh,KH tỉnh - Doanh thu,202603,281.9
+VNPT UMH,B1,Doanh thu bán hàng PTM - Mục tiêu tỉnh,KH tỉnh - Doanh thu,202604,299.3
+VNPT UMH,B1,Doanh thu bán hàng PTM - Mục tiêu tỉnh,KH tỉnh - Doanh thu,202605,299.3
+VNPT UMH,B1,Doanh thu bán hàng PTM - Mục tiêu tỉnh,KH tỉnh - Doanh thu,202606,299.3
+VNPT UMH,B2,Thuê bao di động PTM - Mục tiêu tỉnh,KH tỉnh - TB PTM,202601,1427
+VNPT UMH,B2,Thuê bao di động PTM - Mục tiêu tỉnh,KH tỉnh - TB PTM,202602,1284
+VNPT UMH,B2,Thuê bao di động PTM - Mục tiêu tỉnh,KH tỉnh - TB PTM,202603,1427
+VNPT UMH,B2,Thuê bao di động PTM - Mục tiêu tỉnh,KH tỉnh - TB PTM,202604,1432
+VNPT UMH,B2,Thuê bao di động PTM - Mục tiêu tỉnh,KH tỉnh - TB PTM,202605,1432
+VNPT UMH,B2,Thuê bao di động PTM - Mục tiêu tỉnh,KH tỉnh - TB PTM,202606,1432
+VNPT UMH,B3,Tỷ lệ thuê bao mua gói trong tháng PTM,KH tỉnh - Tỷ lệ mua gói,202601,80
+VNPT UMH,B3,Tỷ lệ thuê bao mua gói trong tháng PTM,KH tỉnh - Tỷ lệ mua gói,202602,80
+VNPT UMH,B3,Tỷ lệ thuê bao mua gói trong tháng PTM,KH tỉnh - Tỷ lệ mua gói,202603,80
+VNPT UMH,B3,Tỷ lệ thuê bao mua gói trong tháng PTM,KH tỉnh - Tỷ lệ mua gói,202604,80
+VNPT UMH,B3,Tỷ lệ thuê bao mua gói trong tháng PTM,KH tỉnh - Tỷ lệ mua gói,202605,80
+VNPT UMH,B3,Tỷ lệ thuê bao mua gói trong tháng PTM,KH tỉnh - Tỷ lệ mua gói,202606,80
